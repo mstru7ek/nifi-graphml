@@ -1,4 +1,4 @@
-package org.apache.nifi.yed.scripts;
+package org.apache.nifi.graphml.scripts;
 
 
 

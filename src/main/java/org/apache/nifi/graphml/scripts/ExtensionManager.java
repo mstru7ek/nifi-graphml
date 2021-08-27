@@ -1,4 +1,4 @@
-package org.apache.nifi.yed.scripts;
+package org.apache.nifi.graphml.scripts;
 
 import org.apache.nifi.components.ConfigurableComponent;
 import org.apache.nifi.processor.Processor;

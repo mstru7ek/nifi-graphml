@@ -19,7 +19,7 @@
 
     <groupId>org.apache.nifi</groupId>
     <version>1.0-SNAPSHOT</version>
-    <artifactId>nifi-yed-graphml</artifactId>
+    <artifactId>nifi-graphml</artifactId>
     <packaging>jar</packaging>
 
 
@@ -54,7 +54,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>org.apache.nifi.yed.scripts.BundleLister</mainClass>
+                            <mainClass>org.apache.nifi.graphml.scripts.BundleLister</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
